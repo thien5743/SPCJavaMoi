@@ -4,6 +4,7 @@
  */
 package spc.edu;
 import java.util.Scanner;
+import spc.edu.Sinhvien;
 /**
  *
  * @author Administrator
