@@ -629,12 +629,12 @@ public class Bai_20MayTinh extends javax.swing.JFrame {
         else if (opr =="x^y")//con bi loi
         {
             double result;
-            for(int i=0;i,num2; i++){
+            for(int i=0;i>num2; i++){
            result =num1*num2;
 
 }
         }
-            jTextFieldl.setText(Double.tostring(result));
+            jTextFieldl.setText(Double.toString(result));
         }
        
     }//GEN-LAST:event_jButton30ActionPerformed
